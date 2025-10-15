@@ -10,6 +10,17 @@ namespace PracticaPilasyColas
     {
         static void Main(string[] args)
         {
+
+        }
+    }
+
+    public class ColaImpresion
+    {
+        public static Queue<String> documentosAImprimir = new Queue<String> ();
+
+        public void MostrarMenu()
+        {
+
         }
     }
 }

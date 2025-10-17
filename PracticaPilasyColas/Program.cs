@@ -25,7 +25,7 @@ namespace PracticaPilasyColas
             }
             else
             {
-                Console.WriteLine("Opción no válida.");
+                Console.WriteLine("Opción no válida. cerrando programa");
             }
             Console.ReadKey();
         }
